@@ -1,0 +1,2 @@
+PORT=8080
+MONGO_URI=mongodb+srv://prashantsugave125:Prashant@2810@adddb.ntt7twa.mongodb.net/?retryWrites=true&w=majority&appName=AddDB
